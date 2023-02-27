@@ -20,7 +20,7 @@ title                    : "salient edit"
 title_separator          : "|"  #포스팅제목|블로그제목
 subtitle                 : "Random posts"  # site tagline that appears below site title in masthead
 name                     : "salientsoph"
-description              : "Web-Full stack Developer. Interests in Blockchain"
+description              : "Web-Full stack Developer. /nInterests in Blockchain"
 url                      : "https://salientsoph.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
