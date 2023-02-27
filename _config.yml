@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web-Full stack Developer. Interests in Blockchain"
   location         : "Seoul, South Korea"
-  email            : 
+  email            : "salientsoph@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:salientsoph@gmail.com"
+      # url: "mailto:salientsoph@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://salientsoph.github.io"
