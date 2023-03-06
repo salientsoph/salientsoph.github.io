@@ -1,4 +1,12 @@
-
+---
+layout: single 
+title: "Module2-Create a Blockchain"
+categories: 블록체인
+tags: [blockchain, blockchainA-Z]
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
 
 강의 목록
 
