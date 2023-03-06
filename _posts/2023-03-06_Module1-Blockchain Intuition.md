@@ -1,8 +1,8 @@
 ---
 layout: single 
 title: "Module1 - Blockchain Intuition"
-categories: 블록체인
-tags: [blockchain, blockchainA-Z]
+categories: 블로그
+tags: [blockchain]
 toc: true
 toc_sticky: true
 toc_label: 목차
